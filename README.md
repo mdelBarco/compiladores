@@ -1,9 +1,10 @@
-compiladores
-============
+Autores: 
+- Matías del Barco
+- Naomi Nakagoe
 
-Compiladores FPUNA
+Para correr el programa, se ejecuta el archivo main.py
+python3 main.py
 
-Autor: Julio Paciello
+Para ingresar un JSON a analizar modifique el archivo fuente.txt y el resultado lo obtendrá en output.txt (Estos archivos lo recibe como parámetro la función "__init__ " de la clase "Archivo" del archivo "lector.py", si desea cambiar la ruta, modifique dichos parametros a recibir.).
 
-Para compilar: gcc anlex.c tablaSimbolos.c -o anlex
-
+Se utiliza la libreria re, para poder identificar expresiones regulares.
