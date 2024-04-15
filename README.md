@@ -1,6 +1,5 @@
 Autores: 
 - Matías del Barco
-- Naomi Nakagoe
 
 Para correr el programa, se ejecuta el archivo main.py
 python3 main.py
