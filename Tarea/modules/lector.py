@@ -1,6 +1,6 @@
 class Archivo():
     """
-    Clase que abstrae la lectura y escritura de archivo fuente y el archivo de salida
+    Clase que abstrae la lectura y escritura del archivo fuente y el archivo de salida.
     """
 
     def __init__(self, entrada="./fuente.txt", salida="./output.txt"):
